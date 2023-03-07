@@ -10,6 +10,7 @@ public class Login extends Files{
 	
 protected static WebDriver driver;
 	
+//Hi This is for Demo pursose
 	public void initilizationB()
 	{
 		
